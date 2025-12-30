@@ -8,6 +8,7 @@
 ## Concepts Learned
 - Binary System
 - Algorithms
+  - Input --> Algorithm --> Output
 - AI
 - C Programming Language
 
@@ -24,11 +25,11 @@ Binary System
 - Videos = collection of pictures (fps)
 
 Algorithms 
-- Algorithm = step by step process to solve a problem
+- **Algorithm** = step by step process to solve a problem
   - Efficient = Halve problem each time (Log base 2 of n)
-- Pseudocode = mix of english & programming language
-- Function = Reusable code that does a specific task
-- Conditional = Decisions based on conditions (ex. if/else statements)
+- **Pseudocode** = mix of english & programming language
+- **Function** = Reusable code that does a specific task
+- **Conditional** = Decisions based on conditions (ex. if/else statements)
 
 AI
 - AI uses a neural network (like the brain) to give the most PROBABLE answer.
@@ -36,3 +37,5 @@ AI
 
 C Programming Language
 - Foundational programming language
+- **Return value** is reusable, can be stored in variable
+- **Side effect** = any lasting effects in function (not through return value)
