@@ -1,2 +1,2 @@
 # cs50
-Work for the CS50 Harvard Course. 
+Hugo's work for the CS50 Harvard Course. 
