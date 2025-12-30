@@ -1,10 +1,5 @@
 # Week 0 - Scratch
 
-## Labs
-- 1
-- 2
-- 3
-
 ## Concepts Learned
 - Binary System
 - Algorithms
