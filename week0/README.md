@@ -8,7 +8,8 @@
 ## Concepts Learned
 - Binary System
 - Algorithms
-- 3
+- AI
+- C Programming Language
 
 ## Notes
 Binary System
@@ -26,5 +27,12 @@ Algorithms
 - Algorithm = step by step process to solve a problem
   - Efficient = Halve problem each time (Log base 2 of n)
 - Pseudocode = mix of english & programming language
-- Functions = Reusable code that does a specific task
-- Conditionals = Decisions based on conditions (ex. if/else statements)
+- Function = Reusable code that does a specific task
+- Conditional = Decisions based on conditions (ex. if/else statements)
+
+AI
+- AI uses a neural network (like the brain) to give the most PROBABLE answer.
+- Large data sets used to train AI.
+
+C Programming Language
+- Foundational programming language
