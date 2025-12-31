@@ -37,7 +37,7 @@ VS Commands
 
 C - General Tips
 - **Library** = Collection of code someone else wrote for you
-  - Access using **Header File** (ex. #include <studio.h>)
+  - Access using **Header File** (ex. #include <stdio.h>)
 - When declaring variable, include RETURN TYPE.
 - Don't forget semicolons!
 - %s --> Placeholder to indicate corresponding argument = string
