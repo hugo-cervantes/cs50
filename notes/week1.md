@@ -7,8 +7,13 @@
 
 ## Concepts Learned
 - Source code --> Compiler --> Machine Code
-- 2
-- 3
+- VS Commands
+- Intro to C - General Tips
+  - Escape Sequences
+  - Libraries
+  - Format Codes
+  - Conditionals
+  - Loops (While, While do, For)
 
 ## Notes
 Intro
@@ -37,6 +42,10 @@ C - Intro
 - Don't forget semicolons!
 - %s --> Placeholder to indicate corresponding argument = string
   - ex. _printf("hello, %s\n", answer);_
+- Strings = "", chars = ''
+- ctrl+c to force quit (ex. infinite while loops)
+- Include **function prototype** at top (so you can define it later)
+- Scope --> variables only exist within {} of functions. 
 
 C - Escape Sequences
 - \n --> new line
@@ -62,4 +71,34 @@ C - Format Codes
 
 C - Conditionals
 - ex. _if (x < y) {}_
+- Logical operators:
+  - || = or
+  - && = and
 
+C - WHILE Loops
+- ex. 
+- _int i = 0;_
+- _while (i < 3) {_
+  - _printf("meow\n");_
+  - _i++;_
+_- }_
+
+C - DO WHILE Loops
+- ex.
+- _int n;_
+- _do_
+- _{_
+  - _n = get_int("Number: ");_
+- _}_
+- _while (n < 1);_
+- _meow(n);_ 
+
+C - FOR Loops
+- ex. 
+- _int main(void)_
+- _{_
+  - _for (int i = 0; i < 3; i++)_
+  - _{_
+    - _meow();_
+  - _}_
+- _}_ 
