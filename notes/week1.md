@@ -46,10 +46,20 @@ C - Escape Sequences
 - \\ --> Literal backslash
 
 cs50 Library - Functions for Input
-- _get_char_ --> single character
-- _get_double_ --> double precision floating point #
-- _get_float_ --> single precision floating point #
+- _get_char_ --> Single character
+- _get_double_ --> Double precision floating point # (decimal)
+- _get_float_ --> Single precision floating point #
 - _get_int_ --> Integer
 - _get_long_ --> Long integer
 - _get_string_ --> String of text 
+
+C - Format Codes
+- _%s_ --> string
+- _%c_ --> char
+- _%f_ --> float
+- _%lf_ --> double
+- _%i_ --> integer
+
+C - Conditionals
+- ex. _if (x < y) {}_
 
