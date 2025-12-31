@@ -8,7 +8,7 @@
 ## Concepts Learned
 - Source code --> Compiler --> Machine Code
 - VS Commands
-- Intro to C - General Tips
+- C - General Tips
   - Escape Sequences
   - Libraries
   - Format Codes
@@ -35,7 +35,7 @@ VS Commands
 - _rm_ --> remove
 - _rmdir_ --> remove directory
 
-C - Intro
+C - General Tips
 - **Library** = Collection of code someone else wrote for you
   - Access using **Header File** (ex. #include <studio.h>)
 - When declaring variable, include RETURN TYPE.
@@ -45,7 +45,12 @@ C - Intro
 - Strings = "", chars = ''
 - ctrl+c to force quit (ex. infinite while loops)
 - Include **function prototype** at top (so you can define it later)
-- Scope --> variables only exist within {} of functions. 
+- **Scope** --> variables only exist within {} of functions.
+- _const_ [return type] [variable] = [value]; --> Makes variable value constant (unchangable)
+- **Integer overflow** = When arithmetic operations produce # outside range.
+- **Truncation** --> Integers cut off decimals (truncate, NOT round)
+- **Floating-Point Imprecision** --> Many decimals (ex. 0.3) don't have exact finite binary representation. Plus, limited memory also causes errors.
+  - SOLUTION: Specialized arbitrary-precision arithmetic libraries
 
 C - Escape Sequences
 - \n --> new line
@@ -68,6 +73,7 @@ C - Format Codes
 - _%f_ --> float
 - _%lf_ --> double
 - _%i_ --> integer
+- _%li_ --> longer integer
 
 C - Conditionals
 - ex. _if (x < y) {}_
