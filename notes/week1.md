@@ -1,9 +1,9 @@
 # Week 1 - C
 
-## Labs
-- 1
-- 2
-- 3
+## Assignments (Problem Set 1)
+- Hello, It's Me
+- Mario
+- Credit
 
 ## Concepts Learned
 - Source code --> Compiler --> Machine Code
