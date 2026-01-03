@@ -15,7 +15,6 @@ int main(void)
 
     while (num > 0)
     {
-
         digit = num%10;
         num /= 10;
 
@@ -50,14 +49,12 @@ int main(void)
             {
                 sum += digit;
             }
-
             even+=2;
         }
         else
         {
             sum += digit;
         }
-
         count++;
     }
 
@@ -83,7 +80,6 @@ int main(void)
                 }
             }
         }
-
         else if (length == 15)
         {
             bool isAmerican1;
@@ -117,16 +113,13 @@ int main(void)
                 type = "INVALID";
             }
         }
-
         else if (length == 16)
         {
-
             bool isMaster1;
             bool isMaster2;
-
+            
             for (int i = 0; i < 16; i++)
             {
-
                 d = num_copy%10;
                 num_copy/=10;
 
@@ -137,7 +130,6 @@ int main(void)
                         isMaster1 = true;
                     }
                 }
-
                 if (i == 15)
                 {
                     if (d == 5)
@@ -154,12 +146,10 @@ int main(void)
                     }
                 }
             }
-
             if (isMaster1 && isMaster2)
             {
                 type = "MASTERCARD";
             }
-
         }
         else
         {
@@ -172,7 +162,4 @@ int main(void)
     }
 
     printf("%s\n",type);
-
 }
-
-
