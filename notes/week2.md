@@ -26,4 +26,5 @@
 
 ### Debugging Techniques
 - Use _printf_ to see what code is doing.
-- debug50 --> Representative of VS Code's debugger
+- **Breakpoint** --> Placeable red dot (left of code in gutters) where code terminates.
+- **debug50** --> Representative of VS Code's debugger
