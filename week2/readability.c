@@ -47,7 +47,6 @@ int main(void)
     }
     else
     {
-        printf("Grade %i",index_rounded);
-        printf("\n");
+        printf("Grade %i\n",index_rounded);
     }
 }
