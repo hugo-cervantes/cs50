@@ -1,9 +1,9 @@
 # Week 2 - Arrays
 
-## Labs
-- 1
-- 2
-- 3
+## Assignments (Problem Set 2)
+- Scrabble
+- Readability
+- Substitution 
 
 ## Concepts Learned
 - Compiling
