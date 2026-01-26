@@ -1,9 +1,9 @@
 # Week 3 - Algorithms
 
-## Labs
-- 1
-- 2
-- 3
+## Problem Set 3
+- Sort
+- Plurality
+- Runoff 
 
 ## Concepts Learned
 - Running Time (ex. Asymptotic Notation)
